@@ -1,5 +1,5 @@
 *, :after, :before{
-  box-sizing: inherit;
+  box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -249,7 +249,7 @@ so had to select id and change it this way */
   width: 37.5%;
 }
 
-
+/* screen 1024px max width css */
 @media (max-width: 1024px) {
   .headline {
     font-size: 32px;
@@ -262,6 +262,7 @@ so had to select id and change it this way */
   }
 }
 
+/* screen 800px max width css */
 @media (max-width: 800px) {
   .top-content {
     width: 100%;
@@ -303,7 +304,8 @@ so had to select id and change it this way */
 
 }
 
-@media (max-width: 800px) and (min-width: 718px) {
+/* screen between 800px and 719px width css */
+@media (max-width: 800px) and (min-width: 719px) {
   .top-content-box {
     align-items: flex-start;
   }
@@ -313,6 +315,7 @@ so had to select id and change it this way */
   }
 }
 
+/* screen 718px max width css */
 @media (max-width: 718px) {
   .background-video {
     width: auto;
