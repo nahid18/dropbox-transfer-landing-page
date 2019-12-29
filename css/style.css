@@ -282,9 +282,28 @@ so had to select id and change it this way */
     margin-bottom: 50px;
   }
 
+  .footer-content {
+    max-width: 1080px;
+    width: 83.333%;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .footer-text {
+    width: 100%;
+    margin-right: 0%;
+    justify-content: flex-start;
+  }
+
+  .footer-cta {
+    width: auto;
+  }
+
 }
 
-@media (max-width: 801px) and (min-width: 718px) {
+@media (max-width: 800px) and (min-width: 718px) {
   .top-content-box {
     align-items: flex-start;
   }
