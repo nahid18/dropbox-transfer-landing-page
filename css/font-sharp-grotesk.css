@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'SharpGrotesk';
+  src: url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBBook20-vflyTZCFu.eot");
+  src: url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBBook20-vflyTZCFu.eot?#iefix") format("embedded-opentype"),url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBBook20-vfl6-4ZSp.woff2") format("woff2"),url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBBook20-vflay0Vof.woff") format("woff"),url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBBook20-vflBru9m9.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal
+}
+
+
+@font-face {
+  font-family: 'SharpGroteskWide';
+  src: url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBMedium22-vflhu7SNH.eot");
+  src: url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBMedium22-vflhu7SNH.eot?#iefix") format("embedded-opentype"),url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBMedium22-vflJ24ZPh.woff2") format("woff2"),url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBMedium22-vfl0G4yVF.woff") format("woff"),url("https://cfl.dropboxstatic.com/static/fonts/sharpgrotesk/SharpGroteskDBMedium22-vflVTTIxH.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal
+}
